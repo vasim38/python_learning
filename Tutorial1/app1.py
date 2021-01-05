@@ -12,8 +12,12 @@ if __name__ == "__main__":
     
    # intentionally Changing 
    # change 1
+<<<<<<< HEAD:Tutorial1/app1.py
    # added from branch 
    # added in master
    # change in branch again
 
    # merge on branch 
+=======
+   # leave - Ille
+>>>>>>> br1:Tutorial1/app.py
